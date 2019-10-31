@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  height: 780px;
+}
+body{
+  background-color:#333534 ;
+}
+#fac{
+  background-color: #d8d5d5;
+  border-radius: 15px;
+  padding: 15px;
+  min-width: auto;
+  margin: auto;
+}
+#tabela{
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #b1b1b1 ;
+  width: 1000px;
+  height: auto;
+  margin: auto;
+  text-align: left;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.267);
+
+  }
+#tab{
+  text-align: left;
+  padding: 10px;
+  height: 50px;
+  width: 900px;
+  background-color:white;
+  
+}
+footer{
+  padding: 25px;
+  background-color: #525252;
+}
+#tex1,#tex2{
+  width: 250px;
+  margin: auto;
+}
+  
